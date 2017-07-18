@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/about/</loc>
+    <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/gallery/toma-nistor/</loc>
+    <lastmod>2017-05-15T22:25:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/gallery/hugo/</loc>
+    <lastmod>2017-05-15T22:25:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/gallery/osprey/</loc>
+    <lastmod>2017-05-15T21:57:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/gallery/rugged-fellows-guide/</loc>
+    <lastmod>2017-05-15T21:52:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/blog/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/blog/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/gallery/</loc>
+    <lastmod>2017-05-15T22:25:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freetrialbeforebuying.github.io/blog-3/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
